@@ -1,4 +1,4 @@
-GreenHarvest: Revolutionizing Farmerto-Market Supply Chain with Salesforce
+🌍GreenHarvest: Revolutionizing Farmerto-Market Supply Chain with Salesforce
 
 Industry Agriculture
 Agriculture / Supply Chain / AgriTech / CRM
